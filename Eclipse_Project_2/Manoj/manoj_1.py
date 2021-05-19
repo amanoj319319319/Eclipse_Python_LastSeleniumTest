@@ -44,3 +44,4 @@ print (v.password)
 
 
 print ("The file has been written")
+print ("i am deals page last print statement")
