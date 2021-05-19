@@ -39,3 +39,8 @@ from Files.manoj_list import variables
 v=variables()
 print (v.user_name)
 print (v.password)
+
+
+
+
+print ("The file has been written")
